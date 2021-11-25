@@ -1,0 +1,43 @@
+.divider {
+  background-color: #5F62E2;
+  height: 345px;
+  display: flex;
+}
+
+.bomb {
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.subtitulo-branco {
+  font-size: 3.4375rem;
+  color: #fff;
+  line-height: 1.4;
+  width: 740px;
+  margin-bottom: 20px;
+}
+
+.divider-text {
+  padding: 68px 155px;
+}
+
+.get-started-divider {
+  text-decoration: none;
+  padding: 15px;
+  background-color: #2AB691;
+  color:#fff;
+  border-radius: 10px;
+}
+
+.divider-button {
+  text-decoration: none;
+  padding: 15px;
+  background-color: #FFFFFF26;
+  color:#fff;
+  border-radius: 10px;
+}
+
+.divider-links {
+  display: flex;
+  gap: 20px;
+}

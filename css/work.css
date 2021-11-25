@@ -1,0 +1,15 @@
+
+.work {
+  display: grid;
+  padding: 130px 155px;
+  grid-template-columns: 2fr 1fr;
+}
+
+.aspas {
+  color: #2AB691;
+}
+
+.work-images {
+  margin-bottom: 10px;
+}
+

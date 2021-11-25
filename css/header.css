@@ -1,0 +1,36 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 48px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  align-items: center;
+}
+
+.header-content {
+  display: flex;
+  gap: 46px;
+  align-items: center;
+}
+
+.header-menu {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  align-content: center;
+}
+
+.sign-button {
+  background-color: #2AB6911A;
+  padding: 12px;
+  border-radius: 4px;
+  color: #2AB691;
+  text-decoration: none;
+}

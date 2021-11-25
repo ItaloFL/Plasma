@@ -1,0 +1,53 @@
+
+
+.work-time {
+  display: grid;
+  padding: 130px 155px;
+  grid-template-columns: 1fr 1fr;
+ justify-items: center;
+ align-items: center;
+}
+
+.call-to-action {
+  width: 140px;
+}
+
+.work-subtitulo {
+  font-size: 3.4375rem;
+  width: 450px;
+  margin-bottom: 20px;
+}
+
+.work-p {
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.work-p::before {
+  content: '';
+  width: 15px;
+  height: 10px;
+  display: block;
+  position: absolute;
+  background: url(../img/verificado.svg) no-repeat center;
+  top: 3px;
+  left: -25px;
+}
+
+.call-to-action-blue {
+  display: flex;
+  background-color: #5F62E2;
+  color: #fff;
+  align-items: center;
+  width: 140px;
+  text-decoration: none;
+  gap: 10px;
+  padding: 15px 10px 15px 10px;
+  border-radius: 10px;
+}
+
+.setinha-branca {
+  color: #fff;
+}
+
+
