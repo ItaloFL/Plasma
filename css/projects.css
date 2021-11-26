@@ -1,0 +1,53 @@
+
+.projects {
+  padding: 130px 155px;
+}
+
+.projects-text-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.projects-text-content a {
+  height: 55px;
+}
+
+.cards {
+  display: flex;
+  list-style: none;
+  gap: 100px;
+}
+
+.card-subtitulo {
+  font-size: 1.75rem;
+  margin: 15px 0px;
+  width: 340px;
+}
+
+.description-card {
+  font-size: 1.125rem;
+  color: #00000080;
+  line-height: 1.33;
+  width: 340px;
+  margin-bottom: 10px;
+}
+
+.card-button {
+  background-color: #2AB6911C;
+  color: #2AB691;
+  text-decoration: none;
+  padding: 0px 10px;
+}
+
+.long-text {
+  width: 370px;
+}
+
+.grid-call-to-action {
+  margin-top: 80px;
+  justify-self: self-end;
+}
+
+.titulo-tamanho {
+  width: 460px;
+}

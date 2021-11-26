@@ -1,0 +1,52 @@
+.footer-divider {
+  background-color: #000;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 50px 155px;
+}
+
+.footer-list {
+  color: #fff;
+}
+
+.list-item {
+  color: #FFFFFF80;
+}
+
+.footer-list {
+  display: flex;
+  gap: 60px;
+} 
+
+.footer-list-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
+.footer {
+  background-color: #000;
+  padding: 10px 260px 10px 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-copy {
+  color: #FFFFFF80;
+}
+
+.footer-menu {
+  display: flex;
+  gap: 20px;
+}
+
+.list-title {
+  font-size: 1.25rem;
+}
+
+
+.list-item {
+  font-size: 1.125rem;
+}
